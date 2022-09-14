@@ -1,11 +1,4 @@
-[githubprofile.txt](https://github.com/Suman-Neupane/Suman-Neupane/files/9567549/githubprofile.txt)
-### Hi there 👋
-
-<!--
-**Suman-Neupane/Suman-Neupane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<h1 align="center">Hi 👋, I'm Suman Neupane</h1>
+ <h1 align="center">Hi 👋, I'm Suman Neupane</h1>
 <h3 align="center">A passionate tech Geek.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman-neupane&label=Profile%20views&color=0e75b6&style=flat" alt="suman-neupane" /> </p>
@@ -27,4 +20,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suman-neupane&show_icons=true&locale=en" alt="suman-neupane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-neupane&" alt="suman-neupane" /></p>
-
