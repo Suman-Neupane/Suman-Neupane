@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17358
-Fork on GitHub
-5004
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Suman Neupane</h1>
 <h3 align="center">A passionate computer geek</h3>
 
